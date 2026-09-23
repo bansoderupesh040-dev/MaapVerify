@@ -45,3 +45,78 @@ Record Result
 Generate Certificate
  ↓
 Store & Track Records
+
+
+🛠️ Technology Stack
+
+Frontend
+
+HTML
+CSS
+JavaScript
+
+Backend
+
+Java
+JSP
+Servlets
+
+Database
+
+MySQL
+
+Tools
+
+Git
+GitHub
+Eclipse
+📊 Main Modules
+👤 User Management
+
+User authentication and access management.
+
+⚖️ Instrument Management
+
+Registration and management of weighing and measuring instruments.
+
+🔍 Verification Management
+
+Stores verification details, inspection information, and results.
+
+📜 Certification
+
+Manages certification information after verification.
+
+📊 Dashboard
+
+Provides an overview of instruments, verification records, and status.
+
+🚀 Future Scope
+📱 Mobile application
+🔔 Automated verification reminders
+📷 QR-based certificate verification
+☁️ Cloud deployment
+📊 Advanced reports and analytics
+🔐 Enhanced security
+🧾 Digital document management
+🎓 Project
+
+Smart India Hackathon (SIH)
+
+Problem Statement: 2305036
+
+Team: Tech Titans
+
+📌 Project Status
+
+🚧 Currently under development.
+
+👥 Team
+
+Rupesh Bansode
+
+IT  Engineering Student
+
+🤝 Contributions
+
+Suggestions and constructive feedback are welcome.
